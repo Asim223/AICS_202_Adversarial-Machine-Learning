@@ -1,0 +1,24 @@
+== MANUAL: ICDFA_AICS202_Comprehensive_Practical_Training_Manual.docx
+   Document control and usage
+   Part I - Programme overview
+   Part II - Laboratory setup and repeatability
+   Module 1 - Foundations and model threat modelling
+   Module 2 - FGSM evasion and robustness measurement
+   Module 3 - Training-data poisoning and integrity
+   Module 4 - Defences and adaptive assurance
+   Part III - Final integrated practical assessment
+   Appendix A - Troubleshooting and support
+   Appendix B - Working terminology
+   Appendix C - Guided investigation worksheets
+   Appendix D - Source references and further study
+== LAB HANDBOOK: ICDFA_AICS202_Practical_Laboratory_Handbook.docx
+   Purpose
+   Authorised environment and ethics
+   Delivery overview
+   Lab 01 - Baseline and Threat Modelling
+   Lab 02 - Evasion and Adversarial Examples
+   Lab 03 - Training Data Poisoning and Integrity
+   Lab 04 - Robustness and Defensive Decision-Making
+   Technical requirements and operating procedure
+   Laboratory evidence and instructor review checklist
+   Reference resources

@@ -1,0 +1,12 @@
+Item,Value
+Dataset,sklearn load_digits
+Samples,1797
+Features,64
+Classes,10
+Pixel range (raw -> used),0-16 -> 0-1 (divided by 16)
+Train size,1347
+Test size,450
+Split,75/25 stratified
+Random seed,42
+Model,LogisticRegression(max_iter=600)
+Clean test accuracy,0.9622

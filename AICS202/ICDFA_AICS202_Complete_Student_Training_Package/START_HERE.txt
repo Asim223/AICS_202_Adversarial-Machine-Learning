@@ -1,0 +1,35 @@
+ICDFA - AICS-202 Adversarial Machine Learning
+STUDENT PRACTICAL LEARNING PACKAGE
+Version 1.0 | October 2026
+
+CONTENTS
+1. Manual/ICDFA_AICS202_Comprehensive_Practical_Training_Manual.pdf
+2. Manual/ICDFA_AICS202_Comprehensive_Practical_Training_Manual.docx
+3. Labs/AICS202_Lab01_Baseline_Threat_Model.ipynb
+4. Labs/AICS202_Lab02_FGSM_Evasion.ipynb
+5. Labs/AICS202_Lab03_Poisoning_Data_Integrity.ipynb
+6. Labs/AICS202_Lab04_Robustness_Defences.ipynb
+7. Labs/requirements.txt and Labs/README.md
+8. Lab_Companion/ICDFA_AICS202_Practical_Laboratory_Handbook.pdf
+
+LEARNING ORDER
+Week 1 - Module 1 and Lab 01
+Week 2 - Module 2 and Lab 02
+Week 3 - Module 3 and Lab 03
+Week 4 - Module 4 and Lab 04
+
+FIRST STEPS
+- Read the first sections of the PDF manual.
+- Extract the entire package into a writable student folder.
+- Open a terminal in Labs and create a Python virtual environment.
+- Install requirements.txt and launch Jupyter Notebook.
+- Run notebooks sequentially, saving your own results and evidence.
+- Complete the integrated 100-mark assessment when assigned in E-Campus.
+
+SAFETY
+Use only the supplied local dataset and learners' own local models.
+Do not target public, production, or third-party systems without explicit written authorisation.
+
+NOTE ON HOURS
+The notebook's estimated guided blocks are 16 hours in total.
+These do not automatically substantiate any separately approved academic contact-hour allocation.

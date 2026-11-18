@@ -1,0 +1,6 @@
+variant,clean,fgsm,pgd,fgsm_transfer_from_baseline
+Baseline,0.9622,0.5156,0.4889,0.5156
+"Aug A: eps 0.10, 1 round (notebook)",0.94,0.2844,0.26,0.86
+"Aug B: eps 0.03, 1 round",0.9622,0.4667,0.4378,0.58
+"Aug C: eps 0.05, 1 round",0.9578,0.4333,0.4022,0.7022
+"Student: eps 0.05, 3 rounds",0.9667,0.4756,0.4667,0.5733

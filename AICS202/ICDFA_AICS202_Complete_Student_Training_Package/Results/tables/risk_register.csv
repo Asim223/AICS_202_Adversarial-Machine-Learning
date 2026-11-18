@@ -1,0 +1,9 @@
+ID,Risk,L,I,Inherent,Rating,Owner,Control,RL,RI,Residual,ResRating
+R01,Evasion by bounded input perturbation (FGSM/PGD),4,4,16,High,Model owner,"Input validation, confidence/margin monitoring, human review of low-margin outputs, adaptive re-testing",3,3,9,Medium
+R02,Training-label poisoning or accidental label noise,3,4,12,Medium,Data owner,"Label audit, versioned labels, staged approval, accuracy-shift alerts",2,3,6,Low
+R03,Weak dataset provenance or supply-chain change,3,4,12,Medium,Data owner,"Provenance register, SHA-256 manifest, restricted write access",2,3,6,Low
+R04,Defence overconfidence (non-adaptive or single-benchmark testing),4,3,12,Medium,Security reviewer,"Model-specific FGSM/PGD tests, multiple seeds and budgets, negative results recorded",2,3,6,Low
+R05,Model extraction or privacy leakage (conceptual in this course),2,3,6,Low,Model owner,"Rate limiting, query logging, access control on prediction interface",2,2,4,Low
+R06,Undetected drift or degradation after deployment,3,3,9,Medium,Model owner,"Monitoring dashboard, scheduled re-evaluation, rollback criteria",2,2,4,Low
+R07,Irreproducible or hidden-state experimental evidence,3,2,6,Low,Learner / reviewer,"Fixed seeds, version log, restart-and-run-all, evidence index",1,2,2,Low
+R08,Model change released without independent sign-off,3,4,12,Medium,Governance board,"Staged approval, named approver, documented decision memo",2,3,6,Low
